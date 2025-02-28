@@ -1,0 +1,3 @@
+Dimensiunea aproximativă a vertex cover-ului: 5
+Nodurile incluse în vertex cover sunt: 1 2 3 4 5 
+

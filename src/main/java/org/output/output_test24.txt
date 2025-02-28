@@ -1,0 +1,2 @@
+Minimum Size of Vertex Cover: 5
+Nodes in Vertex Cover: [1, 2, 3, 4, 5]
