@@ -1,5 +1,5 @@
-## Proiect Vertex Cover
-# Autori: Berescu Silvia-Maria și Sandu Elena Alexandra
+# Proiect Vertex Cover
+## Autori: Berescu Silvia-Maria și Sandu Elena Alexandra
 
 Acest proiect conține implementări pentru evaluarea și benchmarking-ul algoritmilor care rezolvă problema vertex cover. 
 Mai jos este detaliată structura arhivei, instrucțiuni pentru evaluarea soluțiilor și sursele externe utilizate.
